@@ -3,10 +3,10 @@
 [![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks) -->
 
 ## About
-👋 Heyo, I'm Linh Tran. I'm a Teacher Assistant at WIZE Computing Academy. I work on exploring Artificial Intelligence, full-stack projects, and interactive web apps with a focus on JavaScript, Python, and C++.
+👋 Heyo, I'm Linh Tran. I am currently a Teacher Assistant at WIZE Computing Academy, and I previously worked as an Accessibility Compliance Intern at The Texas Comptroller of Public Accounts and a Digital Accessibility Intern at the American Foundation for the Blind. I work on exploring Artificial Intelligence, accessible full-stack projects, and interactive web apps with a focus on JavaScript, Python, and C++.
 
 - 📍 Location: Texas, USA
-- 🎓 Education: University of North Texas (B.S. Artificial Intelligence)
+- 🎓 Education: University of North Texas (Computer Science & Artificial Intelligence)
 - 📅 Hacking Since: 2023
 
 ## Featured Projects
