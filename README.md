@@ -10,12 +10,12 @@
 - 📅 Hacking Since: 2023
 
 ## Featured Projects
-- 🎲 My-Personal-Universe- — An interactive personal universe project. (JavaScript) — github.com/LinhTran00/My-Personal-Universe-
-- 🛠️ portfolio — My personal development portfolio site. (JavaScript) — github.com/LinhTran00/portfolio
-- 🤖 BooWay — A web project built to explore new development tools. (JavaScript) — github.com/LinhTran00/BooWay
+- 🎲 UNT-Discovery-Park-Indoor-Navigation — An indoor navigation system for UNT's engineering building. (JavaScript) — github.com/Pranitha-Gaddam/UNT-Discovery-Park-Indoor-Navigation
+- 🛠️ ADHD — An application project focusing on ADHD support and exploration. (JavaScript) — github.com/wajdialjedaani/ADHD
+- 🤖 UnityPlugin — A plugin development project for the Unity game engine. (C#) — github.com/wajdialjedaani/UnityPlugin
 
 ## Tech & Interests
-- 🧰 Languages: JavaScript, Python, C++, TypeScript
+- 🧰 Languages: JavaScript, C#, Python, C++
 - 🔭 Focus: Artificial Intelligence, Web Development, Algorithms
 - ❤️ Interests: Machine Learning, Hackathons, Education
 
