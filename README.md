@@ -56,11 +56,11 @@ Hey, I'm Linh. I build accessible, human-centered software — from AI-powered c
 
 <div align="center">
 
-![Linh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=linhtran00&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000)
+![Linh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=linhtran00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linhtran00&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linhtran00&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=linhtran00&theme=react-dark&hide_border=true&bg_color=00000000)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=linhtran00&theme=tokyo-night&hide_border=true&bg_color=00000000)
 
 </div>
 
