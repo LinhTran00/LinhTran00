@@ -1,12 +1,12 @@
 <!-- Header Banner -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Linh%20Tran&fontSize=60&fontAlignY=38&desc=CS%20student%20%C2%B7%20AI%20tinkerer%20%C2%B7%20building%20things%20that%20matter&descAlignY=58&descSize=16&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=200&section=header&text=Linh%20Tran&fontSize=60&fontAlignY=38&desc=CS%20student%20%C2%B7%20AI%20tinkerer%20%C2%B7%20building%20things%20that%20matter&descAlignY=58&descSize=16&fontColor=ffffff)
 
-![UNT](https://img.shields.io/badge/UNT-Computer%20Science-f9c8d6?style=flat-square&labelColor=f9c8d6&color=9b3058)
-![Accessibility](https://img.shields.io/badge/Accessibility%20Advocate-ddeedd?style=flat-square&color=2a5c3a)
-![AI](https://img.shields.io/badge/AI%20%26%20Full--Stack-ddeeff?style=flat-square&color=1a4d80)
-![WiC](https://img.shields.io/badge/Women%20in%20Computing-ece8fc?style=flat-square&color=4a3480)
+![UNT](https://img.shields.io/badge/UNT%20Computer%20Science-f2c4ce?style=flat-square&color=f2c4ce)
+![Accessibility](https://img.shields.io/badge/Accessibility%20Advocate-c8e6c9?style=flat-square&color=c8e6c9)
+![AI](https://img.shields.io/badge/AI%20%26%20Full--Stack-bbdefb?style=flat-square&color=bbdefb)
+![WiC](https://img.shields.io/badge/Women%20in%20Computing-e1bee7?style=flat-square&color=e1bee7)
 
 </div>
 
@@ -33,8 +33,8 @@ Hey, I'm Linh. I build accessible, human-centered software — from AI-powered c
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🏆 [PosiSense](https://github.com/TrinhTT8/posi-sense) | Real-time AI interview coach with biometric feedback | Python · React |
-| 🎨 Huemood | Color-to-mood mapping tool exploring palette and emotion | Python · React |
+| 🏆 [PosiSense](https://github.com/linhtran00/posi-sense) | Real-time AI interview coach with biometric feedback | Python · React |
+| 🎨 [Huemood](https://github.com/linhtran00/moodcast) | Color-to-mood mapping tool exploring palette and emotion | Python · React |
 | 🗺️ [UNT Indoor Navigation](https://github.com/Pranitha-Gaddam/UNT-Discovery-Park-Indoor-Navigation) | Accessible navigation system for UNT's engineering building | JavaScript |
 | 🧠 [ADHD Support App](https://github.com/wajdialjedaani/ADHD) | Application focused on ADHD accessibility and productivity | JavaScript |
 | 🎮 [Unity Accessibility Plugin](https://github.com/wajdialjedaani/UnityPlugin) | Plugin adding accessibility features for Unity game developers | C# |
@@ -56,11 +56,11 @@ Hey, I'm Linh. I build accessible, human-centered software — from AI-powered c
 
 <div align="center">
 
-![Linh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=linhtrn00&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000)
+![Linh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=linhtran00&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linhtrn00&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linhtran00&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=linhtrn00&theme=react-dark&hide_border=true&bg_color=00000000)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=linhtran00&theme=react-dark&hide_border=true&bg_color=00000000)
 
 </div>
 
