@@ -9,6 +9,9 @@
 - 🎓 Education: University of North Texas (Computer Science & Artificial Intelligence)
 - 📅 Hacking Since: 2023
 
+## 🏆 Highlighted Achievement
+- 🥇 **Winner at HackAI 2025** with **PosiSense** — a real-time AI interview coaching app!
+
 ## Featured Projects
 - 🎲 UNT-Discovery-Park-Indoor-Navigation — An indoor navigation system for UNT's engineering building. (JavaScript) — github.com/Pranitha-Gaddam/UNT-Discovery-Park-Indoor-Navigation
 - 🛠️ ADHD — An application project focusing on ADHD support and exploration. (JavaScript) — github.com/wajdialjedaani/ADHD
