@@ -179,8 +179,25 @@ I build **calm, accessible software** and **AI that explains itself**: risk mode
 <br>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/title-stats-dark.svg">
+  <img src="assets/title-stats-light.svg" width="100%" alt="04 On GitHub">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats/stats-dark.svg">
+  <img src="assets/stats/stats-light.svg" width="100%" alt="GitHub stats: contributions, commits, public repos, pull requests and top languages">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats/contributions-dark.svg">
+  <img src="assets/stats/contributions-light.svg" width="100%" alt="Contribution calendar for the last 12 months">
+</picture>
+
+<br>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-hello-dark.svg">
-  <img src="assets/title-hello-light.svg" width="100%" alt="04 Say hello">
+  <img src="assets/title-hello-light.svg" width="100%" alt="05 Say hello">
 </picture>
 
 <div align="center">
