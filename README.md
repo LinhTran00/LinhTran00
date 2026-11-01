@@ -124,25 +124,8 @@ I build **calm, accessible software** and **AI that explains itself**: risk mode
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/title-path-dark.svg">
-  <img src="assets/title-path-light.svg" width="100%" alt="02 The path so far">
-</picture>
-
-| | When | Where | Role |
-|:--:|---|---|---|
-| ◉ | Now | **Handshake AI Fellowship** | AI Trainer · ranks AI-written Python and C/C++ |
-| ◉ | Jun – Jul 2026 | **Texas DFPS** | Programmer Entry I Intern · Enterprise Architecture |
-| ○ | 2026 – 2027 | **University of North Texas** | MS in Artificial Intelligence · 4.0 |
-| ◉ | Jun – Aug 2025 | **Texas Comptroller** | Accessibility Compliance Intern · 25+ state sites audited |
-| ○ | May 2025 | **University of North Texas** | BS in Computer Science · Data Analysis certificate |
-| ◉ | Feb 2025 – now | **Wize Computing Academy** | Teaching Assistant · 50+ young coders |
-| ◉ | May – Sep 2024 | **American Foundation for the Blind** | Digital Accessibility Intern |
-
-<br>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-toolkit-dark.svg">
-  <img src="assets/title-toolkit-light.svg" width="100%" alt="03 Toolkit">
+  <img src="assets/title-toolkit-light.svg" width="100%" alt="02 Toolkit">
 </picture>
 
 <table>
@@ -186,7 +169,7 @@ I build **calm, accessible software** and **AI that explains itself**: risk mode
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-beyond-dark.svg">
-  <img src="assets/title-beyond-light.svg" width="100%" alt="04 Beyond code">
+  <img src="assets/title-beyond-light.svg" width="100%" alt="03 Beyond code">
 </picture>
 
 | **50+** | **+209%** | **24h** | **2×** |
@@ -196,31 +179,8 @@ I build **calm, accessible software** and **AI that explains itself**: risk mode
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/title-stats-dark.svg">
-  <img src="assets/title-stats-light.svg" width="100%" alt="05 On GitHub">
-</picture>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LinhTran00&show_icons=true&hide_border=true&bg_color=00000000&title_color=86e3d5&text_color=a3b6b9&icon_color=5fd0c0&ring_color=5fd0c0">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LinhTran00&show_icons=true&hide_border=true&bg_color=00000000&title_color=2c766d&text_color=5c6274&icon_color=86cbbf&ring_color=86cbbf" alt="GitHub stats">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LinhTran00&layout=compact&hide_border=true&bg_color=00000000&title_color=86e3d5&text_color=a3b6b9">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinhTran00&layout=compact&hide_border=true&bg_color=00000000&title_color=2c766d&text_color=5c6274" alt="Top languages">
-</picture>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LinhTran00&bg_color=00000000&color=a3b6b9&line=5fd0c0&point=e7a6ba&area=true&area_color=5fd0c0&hide_border=true&title_color=86e3d5">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LinhTran00&bg_color=00000000&color=5c6274&line=2c766d&point=a5476c&area=true&area_color=86cbbf&hide_border=true&title_color=2c766d" alt="Contribution graph">
-</picture>
-</div>
-
-<br>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-hello-dark.svg">
-  <img src="assets/title-hello-light.svg" width="100%" alt="06 Say hello">
+  <img src="assets/title-hello-light.svg" width="100%" alt="04 Say hello">
 </picture>
 
 <div align="center">
