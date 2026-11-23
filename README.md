@@ -17,13 +17,13 @@
 
 <br><br>
 
-<sub>MS in Artificial Intelligence @ UNT &nbsp;·&nbsp; AI Trainer, Handshake AI Fellowship &nbsp;·&nbsp; Teaching kids to code at Wize &nbsp;·&nbsp; Women in Computing</sub>
+<sub>MS in Artificial Intelligence @ UNT &nbsp;·&nbsp; Teaching kids to code at Wize &nbsp;·&nbsp; Women in Computing</sub>
 
 </div>
 
 <br>
 
-I build **calm, accessible software** and **AI that explains itself**: risk models with SHAP, real-time interview coaching, accessibility tools for game developers. Two accessibility internships and 50+ young students shape how I build: clear, tested, and usable by everyone.
+I build **calm, accessible software** and **AI that explains itself**: risk models with SHAP, real-time interview coaching, AI hints for kids learning to code, accessibility tools for game developers. Two accessibility internships and 50+ young students shape how I build: clear, tested, and usable by everyone.
 
 <br>
 
@@ -53,6 +53,14 @@ I build **calm, accessible software** and **AI that explains itself**: risk mode
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://github.com/TrinhTT8/mentor-thena"><img src="assets/cards/mentorthena.webp" width="100%" alt="MentorThena demo: a stuck student gets a hint from Athena the owl and sails home to Ithaca"></a>
+<p><sub><b>HACKUTA 2026</b> &nbsp;·&nbsp; AI &amp; DATA · SOFTWARE</sub></p>
+<h3>MentorThena</h3>
+<p>An AI teaching assistant for kids’ coding classes, inspired by my students at Wize. Plain rules spot a stuck kid, <b>Gemini</b> gives hints (never the answer), and a live <b>Sea Map</b> shows the teacher who needs help and why. I built the backend and AI parts.</p>
+<p><code>Python</code> <code>Flask</code> <code>Gemini</code> <code>MongoDB Atlas</code> <code>React</code></p>
+<p><a href="https://github.com/TrinhTT8/mentor-thena">Code</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://github.com/wajdialjedaani/UnityPlugin"><img src="assets/cards/unity.webp" width="100%" alt="Unity Accessibility Plugin: editor demo"></a>
 <p><sub>SOFTWARE &nbsp;·&nbsp; MAY – DEC 2024</sub></p>
 <h3>Unity Accessibility Plugin</h3>
@@ -60,6 +68,8 @@ I build **calm, accessible software** and **AI that explains itself**: risk mode
 <p><code>C#</code> <code>Unity</code> <code>WCAG 2.1</code></p>
 <p><a href="https://github.com/wajdialjedaani/UnityPlugin">Code</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://linhtran-my-portfolio.vercel.app/?role=ai#work"><img src="assets/cards/donor.webp" width="100%" alt="Donor model: test accuracy by model, AutoNeural 90 percent"></a>
 <p><sub>AI &amp; DATA &nbsp;·&nbsp; SEP – DEC 2024</sub></p>
@@ -68,8 +78,6 @@ I build **calm, accessible software** and **AI that explains itself**: risk mode
 <p><code>SAS Enterprise Miner</code> <code>Neural networks</code> <code>KNN</code> <code>Regression</code></p>
 <p><a href="https://linhtran-my-portfolio.vercel.app/?role=ai#work">Case study</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://adhd-study-planner.onrender.com/dashboard"><img src="assets/cards/adhd.webp" width="100%" alt="ADHD Study Planner: dashboard"></a>
 <p><sub>SOFTWARE &nbsp;·&nbsp; JAN – MAY 2025</sub></p>
@@ -78,6 +86,8 @@ I build **calm, accessible software** and **AI that explains itself**: risk mode
 <p><code>React</code> <code>Tailwind</code> <code>MongoDB</code> <code>Express</code> <code>Gemini</code></p>
 <p><a href="https://adhd-study-planner.onrender.com/dashboard">Live</a> &nbsp;·&nbsp; <a href="https://github.com/LinhTran00/ADHD">Code</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://pranitha-gaddam.github.io/UNT-Discovery-Park-Indoor-Navigation/"><img src="assets/cards/indoor.webp" width="100%" alt="Indoor Navigation: rooms and a route drawn from the project data"></a>
 <p><sub>SOFTWARE &nbsp;·&nbsp; JAN – MAY 2024</sub></p>
@@ -85,16 +95,6 @@ I build **calm, accessible software** and **AI that explains itself**: risk mode
 <p>Turn-by-turn routes inside UNT’s Discovery Park, with <b>wheelchair-friendly paths</b>. 417 mapped points across two floors from QGIS and OpenStreetMap.</p>
 <p><code>JavaScript</code> <code>Mapbox GL</code> <code>QGIS</code> <code>Figma</code></p>
 <p><a href="https://pranitha-gaddam.github.io/UNT-Discovery-Park-Indoor-Navigation/">Live</a> &nbsp;·&nbsp; <a href="https://github.com/Pranitha-Gaddam/UNT-Discovery-Park-Indoor-Navigation">Code</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/LinhTran00/moodcast"><img src="assets/cards/huemood.webp" width="100%" alt="Huemood: a mood turned into a five-color palette"></a>
-<p><sub>AI &amp; DATA</sub></p>
-<h3>Huemood</h3>
-<p>Describe a mood, get a palette. <b>GPT-4o</b> returns five colors as clean JSON, each with a hex code, a name and a usage role.</p>
-<p><code>Python</code> <code>OpenAI API</code> <code>Prompt design</code></p>
-<p><a href="https://github.com/LinhTran00/moodcast">Code</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://linhtran-my-portfolio.vercel.app/?role=ai#work"><img src="assets/cards/rag.webp" width="100%" alt="RAG pipeline: guides, chunks, embeddings, ChromaDB, Gemini"></a>
@@ -108,11 +108,12 @@ I build **calm, accessible software** and **AI that explains itself**: risk mode
 </table>
 
 <details>
-<summary><b>More work</b> &nbsp;<sub>statistics, reinforcement learning, analytics</sub></summary>
+<summary><b>More work</b> &nbsp;<sub>GPT-4o, statistics, reinforcement learning, analytics</sub></summary>
 <br>
 
 | | Project | What happened |
 |:--:|---|---|
+| ◇ | **[Huemood](https://github.com/LinhTran00/moodcast)** | Describe a mood, get a palette. GPT-4o returns five colors as clean JSON, each with a hex code, a name and a usage role. |
 | ∿ | **Steam Games Analysis** | ~99K games, regression on peak players. Best model adj. R² 0.237; adding all genres overfit. |
 | ◐ | **Robot on a Cliff** | Value iteration on a 5×5 grid world with cliffs and slippery moves. |
 | ⌘ | **Genetic Job Scheduler** | Order crossover + roulette selection beat random schedules by ~9%. |
